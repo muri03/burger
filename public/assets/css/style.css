@@ -1,0 +1,22 @@
+body {
+	background-color: beige;
+	font-family: Coustard;
+}
+
+
+h1 {
+	text-align: center;
+}
+
+.col-sm-4, .col-sm-12 {
+	text-align: center;
+}
+
+ul {
+   list-style: none;
+}
+
+/*Styling ot keep the images centered*/
+.img-responsive {
+    margin: 0 auto;
+}
