@@ -1,4 +1,4 @@
-# BEat-Da-Burger
+# Eat-Da-Burger
 
 This repository contains burger logger with MySQL, Node, Express, Handlebars and a homemade ORM.
 
