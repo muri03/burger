@@ -1,6 +1,7 @@
 body {
 	background-color: beige;
 	font-family: Coustard;
+	width: 960px;
 }
 
 
@@ -16,7 +17,7 @@ ul {
    list-style: none;
 }
 
-/*Styling ot keep the images centered*/
+/*Styling to keep the images centered*/
 .img-responsive {
     margin: 0 auto;
 }
