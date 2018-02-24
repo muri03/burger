@@ -2,7 +2,7 @@
 
 This repository contains burger logger with MySQL, Node, Express, Handlebars and a homemade ORM.
 
-* [Deploy Webb App](https://evening-garden-62446.herokuapp.com/)
+* [Deploy Web App](https://evening-garden-62446.herokuapp.com/)
 
 ## Objectives
 
